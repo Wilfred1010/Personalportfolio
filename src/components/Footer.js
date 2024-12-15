@@ -1,3 +1,6 @@
+// wilfred monye 
+// 301353973
+
 import { Container, Row, Col } from "react-bootstrap";
 import { MailchimpForm } from "./MailchimpForm";
 import logo from "../assets/img/logo.png";
